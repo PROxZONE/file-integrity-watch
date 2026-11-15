@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "algorithm": "sha256",
+  "files": {
+    "config.txt": "e275f549af3dc568140ee79587bf8ca4c3b0daf520e54e5e70f977fd9a011207",
+    "notes.txt": "d250327186d2e192111bd3353e863eacb923bd1d879b05b3375186f3e95357b7"
+  }
+}
